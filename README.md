@@ -1,4 +1,4 @@
-#Membuat program sederhana untuk menentukan bilangan terbesar dari 3 buah bilangan
+MEMBUAT PROGRAM SEDERHANA UNTUK MENENTUKAN BILANGAN TERBESAR DARI 3 BUAH BILANGAN
 
 Langkah 1. Buat terlebih dahulu kodingan notepad seperti pada gambar dibawah ini:
 ![program](https://user-images.githubusercontent.com/46735379/52615004-6ba4db80-2e48-11e9-8c77-7358fac9a6ca.jpg)
@@ -21,4 +21,5 @@ Maka hasilnya, Dari 3 buah bilangan tersebut.. 90 merupakan bilangan terbesar
 Jika ingin mengulanginya lagi, maka ketik "ya"
 ![cmd7](https://user-images.githubusercontent.com/46735379/52615262-74e27800-2e49-11e9-887b-c46362a5a28e.jpg)
 
-
+Dan jika tidak ingin mengulanginya, maka ketik "tidak"
+![cmd9](https://user-images.githubusercontent.com/46735379/52616786-88dca880-2e4e-11e9-812f-7eba33983bd2.jpg)
