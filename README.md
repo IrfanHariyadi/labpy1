@@ -25,3 +25,7 @@ Dan jika tidak ingin mengulanginya, maka ketik "tidak"
 ![cmd9](https://user-images.githubusercontent.com/46735379/52616786-88dca880-2e4e-11e9-812f-7eba33983bd2.jpg)
 
 Dari program tersebut terdapat tiga macam kondisional di Python, yang dapat di gunakan untuk membangun alur logika untuk program. Python memiliki statement if, if..else, dan if..elif..else
+
+Untuk memeriksa kondisi yang tidak memenuhi kondisi utama. Maka else digunakan untuk menangani semua kondisi selain kondisi yang telah dituliskan
+
+Bila kondisi yang akan didefinisikan cukup banyak, kita dapat menambah kondisi lain dengan menggunakan elif di bawah statement if dan sebelum statement else
