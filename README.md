@@ -29,3 +29,5 @@ Dari program tersebut terdapat tiga macam kondisional di Python, yang dapat di g
 Untuk memeriksa kondisi yang tidak memenuhi kondisi utama. Maka else digunakan untuk menangani semua kondisi selain kondisi yang telah dituliskan
 
 Bila kondisi yang akan didefinisikan cukup banyak, kita dapat menambah kondisi lain dengan menggunakan elif di bawah statement if dan sebelum statement else
+
+Sekian dan terima kasih. Mohon maaf apabila terdapat kesalahan
