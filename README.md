@@ -6,10 +6,10 @@ Langkah 1. Buat terlebih dahulu kodingan notepad seperti pada gambar dibawah ini
 Langkah 2. Masuk ke cmd
 ![cmd2](https://user-images.githubusercontent.com/46735379/52615200-2af99200-2e49-11e9-92ae-cc804efef936.jpg)
 
-Langkah 3. Input file notepad yang telah di simpan
+Langkah 3. Input file yang telah dibuat pada notepad
 ![cmd3](https://user-images.githubusercontent.com/46735379/52615217-3ea4f880-2e49-11e9-99b8-e4acbacac576.jpg)
 
-Seperti inilah hasil kodingan dari notepad yang telah dibuat
+Seperti inilah hasilnya
 ![cmd4](https://user-images.githubusercontent.com/46735379/52615225-48c6f700-2e49-11e9-8097-15a00805007b.jpg)
 
 Langkah 4. Masukan 3 buah bilangan
